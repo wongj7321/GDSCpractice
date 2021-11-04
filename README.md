@@ -1,1 +1,2 @@
-# jess-inputs-app
+# practice for the GDSC workshop
+
